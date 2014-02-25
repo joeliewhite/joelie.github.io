@@ -12,4 +12,4 @@ Your Public Site
 
 [Twitter](http://twitter.com)
 
-italic*
+*italic*
